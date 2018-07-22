@@ -24,3 +24,6 @@ class Dog
   
   
 end 
+
+
+sparks = Dog.new 
