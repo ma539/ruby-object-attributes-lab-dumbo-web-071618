@@ -27,3 +27,5 @@ end
 
 
 sparks = Dog.new 
+sparks.name= "Sparks"
+sparks.name
