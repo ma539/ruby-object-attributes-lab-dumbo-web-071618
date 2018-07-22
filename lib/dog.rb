@@ -26,6 +26,6 @@ class Dog
 end 
 
 
-sparks = Dog.new ("Fido")
+sparks = Dog.new ("Fido","Husky")
 sparks.name= "Sparks"
 sparks.name
